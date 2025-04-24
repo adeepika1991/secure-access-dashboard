@@ -11,6 +11,10 @@ client/dist/
 server/node_modules/
 server/dist/
 server/.env
+server/prisma/migrations/
+server/prisma/dev.db
+server/prisma/dev.db-journal
+
 
 # System
 .DS_Store
