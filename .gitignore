@@ -1,0 +1,17 @@
+# Node
+node_modules/
+dist/
+.env
+
+# Frontend (Vite)
+client/node_modules/
+client/dist/
+
+# Backend (Express + TS)
+server/node_modules/
+server/dist/
+server/.env
+
+# System
+.DS_Store
+*.log
